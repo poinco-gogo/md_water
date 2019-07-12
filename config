@@ -1,0 +1,9 @@
+dt 2
+temperature 300
+gamma 10
+numstep 100
+boxsize 16.9461011959
+origin  0 0 0
+cutoff 8
+ewcoeff 0.39467
+kmax 8
